@@ -58,8 +58,10 @@ helped me retain information much more effectively than
 reading alone. Instead of traditional notes, I design
 infographics that condense key concepts into memorable
 visuals — making it harder to forget what I learned.
-
+### Behavioral Red Flags — Psychological Manipulation Tactics
 <img src="https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/infographics/Phishing%20email-1.png" width="500"/>
+
+### Phishing Email Indicators
 <img src="https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/infographics/Phishing%20email-2.png" width="500"/>
 
 ## Tools and Platforms
