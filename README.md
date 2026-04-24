@@ -49,7 +49,7 @@ incident report.
 For the complete step-by-step investigation with detailed
 analysis, download the PDF below:
 
-📄 [Download Full Tutorial PDF](https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/soc_phishing_tutorial_final.pdf) 
+📄 [Download Full Tutorial PDF](https://github.com/frankllin-sec/Soc-phishing-investigation/raw/main/soc_phishing_tutorial_final.pdf) 
 
 ## Study Notes & Infographics
 
