@@ -39,7 +39,7 @@ incident report.
 ## Alert Screenshots
 
 ### Alert 8814 — Phishing Email Received
-![Alert 8814] (https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/screenshots/SOC%20Analyst%20Study%20Project%20—%20Phishing%20Alert%20Investigation1.png)
+![Alert 8814](https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/screenshots/SOC%20Analyst%20Study%20Project%20—%20Phishing%20Alert%20Investigation1.png)
 
 ### Alert 8816 — Firewall Blocked the Connection
 ![Alert 8816](https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/screenshots/SOC%20Analyst%20Study%20Project%20—%20Phishing%20Alert%20Investigation3.png)
@@ -49,7 +49,7 @@ incident report.
 For the complete step-by-step investigation with detailed
 analysis, download the PDF below:
 
-📄 [Download Full Tutorial PDF](https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/soc_phishing_tutorial_final.pdf)
+📄 [Download Full Tutorial PDF](https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/soc_phishing_tutorial_final.pdf) 
 
 ## Skills Demonstrated
 
