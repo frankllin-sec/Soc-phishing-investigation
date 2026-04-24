@@ -1,7 +1,7 @@
 
 
 # SOC Analyst Study Project — Phishing Alert Investigation
-4/24/2026 
+4/23/2026 
 
 ![TryHackMe](https://img.shields.io/badge/Platform-TryHackMe-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
